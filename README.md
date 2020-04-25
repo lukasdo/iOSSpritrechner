@@ -1,5 +1,8 @@
 # iOSSpritrechner
 
+# Frameworks
+
+Floating Panel https://github.com/SCENEE/FloatingPanel
 
 # Icons
 

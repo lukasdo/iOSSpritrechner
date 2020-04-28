@@ -1,6 +1,6 @@
 # iOSSpritrechner
 
-Find the closest and cheapest gas station in your area or in another area.
+Find the closest and cheapest gas station.
 
 <img src="https://user-images.githubusercontent.com/44913260/80511757-d1618280-897c-11ea-8782-f2b5caffed1b.PNG" width="200">
 
@@ -11,7 +11,7 @@ Inspect the gas station in detail.
 
 Display the route to your gas station or just open it in apple maps.
 
-<img src="https://user-images.githubusercontent.com/44913260/80511294-37013f00-897c-11ea-972b-7515928112b3.PNG" width="200"/>
+<img src="https://user-images.githubusercontent.com/44913260/80511294-37013f00-897c-11ea-972b-7515928112b3.PNG" height="400" width="200"/>
 
 # Frameworks
 

@@ -1,17 +1,16 @@
 {
   "images" : [
     {
-      "filename" : "icons8-tankstelle-32.png",
+      "filename" : "icons8-tankstelle-50.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "icons8-tankstelle-64-2.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "icons8-tankstelle-96.png",
+      "filename" : "icons8-tankstelle-100.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
